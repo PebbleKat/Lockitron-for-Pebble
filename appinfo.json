@@ -3,8 +3,8 @@
   "capabilities": [
     "configurable"
   ],
-  "companyName": "Meiguro",
-  "longName": "Pebble.js",
+  "companyName": "Rishie",
+  "longName": "Lockitron for Pebble",
   "resources": {
     "media": [
       {
@@ -31,15 +31,15 @@
     ]
   },
   "sdkVersion": "3",
-  "shortName": "Pebble.js",
+  "shortName": "Lockitron for Pebble",
   "targetPlatforms": [
     "aplite",
     "basalt",
     "chalk"
   ],
-  "uuid": "133215f0-cf20-4c05-997b-3c9be5a64e5b",
+  "uuid": "62b7d53e-3142-4ff4-ad1d-d07bfdd0073e",
   "versionCode": 1,
-  "versionLabel": "0.4",
+  "versionLabel": "1",
   "watchapp": {
     "watchface": false
   }

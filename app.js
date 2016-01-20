@@ -145,7 +145,7 @@ loadState();
 if (accessToken === null) {
   var card = new UI.Card({ 
     title: 'Setup Account',
-     body: "Login to your Lockitron account: MyPebble->Apps/Timeline->Pebbletron->Settings",
+     body: "Login to your Lockitron account: MyPebble->Apps/Timeline->Lockitron for Pebble->Settings",
      scrollable: true
     });
   card.show();  
